@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HabbitTracker", "HabbitTracker\HabbitTracker.csproj", "{78DA6E41-A860-4617-9F14-F0FC6C87CCAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{504D0F85-F8AF-4510-B1C6-DEBBDEC68891}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78DA6E41-A860-4617-9F14-F0FC6C87CCAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78DA6E41-A860-4617-9F14-F0FC6C87CCAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78DA6E41-A860-4617-9F14-F0FC6C87CCAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78DA6E41-A860-4617-9F14-F0FC6C87CCAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{504D0F85-F8AF-4510-B1C6-DEBBDEC68891}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{504D0F85-F8AF-4510-B1C6-DEBBDEC68891}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{504D0F85-F8AF-4510-B1C6-DEBBDEC68891}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{504D0F85-F8AF-4510-B1C6-DEBBDEC68891}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE016718-5153-40BD-8873-D375F10350C1}
+	EndGlobalSection
+EndGlobal

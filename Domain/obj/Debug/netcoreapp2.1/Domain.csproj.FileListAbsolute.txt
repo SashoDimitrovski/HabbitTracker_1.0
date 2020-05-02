@@ -1,0 +1,8 @@
+D:\Skolo\C#\Basic\HabbitTracker1.0\HabbitTracker_1.0\Domain\bin\Debug\netcoreapp2.1\Domain.deps.json
+D:\Skolo\C#\Basic\HabbitTracker1.0\HabbitTracker_1.0\Domain\bin\Debug\netcoreapp2.1\Domain.dll
+D:\Skolo\C#\Basic\HabbitTracker1.0\HabbitTracker_1.0\Domain\bin\Debug\netcoreapp2.1\Domain.pdb
+D:\Skolo\C#\Basic\HabbitTracker1.0\HabbitTracker_1.0\Domain\obj\Debug\netcoreapp2.1\Domain.csprojAssemblyReference.cache
+D:\Skolo\C#\Basic\HabbitTracker1.0\HabbitTracker_1.0\Domain\obj\Debug\netcoreapp2.1\Domain.AssemblyInfoInputs.cache
+D:\Skolo\C#\Basic\HabbitTracker1.0\HabbitTracker_1.0\Domain\obj\Debug\netcoreapp2.1\Domain.AssemblyInfo.cs
+D:\Skolo\C#\Basic\HabbitTracker1.0\HabbitTracker_1.0\Domain\obj\Debug\netcoreapp2.1\Domain.dll
+D:\Skolo\C#\Basic\HabbitTracker1.0\HabbitTracker_1.0\Domain\obj\Debug\netcoreapp2.1\Domain.pdb

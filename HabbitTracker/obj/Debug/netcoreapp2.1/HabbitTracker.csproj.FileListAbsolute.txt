@@ -1,0 +1,13 @@
+D:\Skolo\C#\Basic\HabbitTracker1.0\HabbitTracker_1.0\HabbitTracker\bin\Debug\netcoreapp2.1\HabbitTracker.deps.json
+D:\Skolo\C#\Basic\HabbitTracker1.0\HabbitTracker_1.0\HabbitTracker\bin\Debug\netcoreapp2.1\HabbitTracker.runtimeconfig.json
+D:\Skolo\C#\Basic\HabbitTracker1.0\HabbitTracker_1.0\HabbitTracker\bin\Debug\netcoreapp2.1\HabbitTracker.runtimeconfig.dev.json
+D:\Skolo\C#\Basic\HabbitTracker1.0\HabbitTracker_1.0\HabbitTracker\bin\Debug\netcoreapp2.1\HabbitTracker.dll
+D:\Skolo\C#\Basic\HabbitTracker1.0\HabbitTracker_1.0\HabbitTracker\bin\Debug\netcoreapp2.1\HabbitTracker.pdb
+D:\Skolo\C#\Basic\HabbitTracker1.0\HabbitTracker_1.0\HabbitTracker\bin\Debug\netcoreapp2.1\Domain.dll
+D:\Skolo\C#\Basic\HabbitTracker1.0\HabbitTracker_1.0\HabbitTracker\bin\Debug\netcoreapp2.1\Domain.pdb
+D:\Skolo\C#\Basic\HabbitTracker1.0\HabbitTracker_1.0\HabbitTracker\obj\Debug\netcoreapp2.1\HabbitTracker.csprojAssemblyReference.cache
+D:\Skolo\C#\Basic\HabbitTracker1.0\HabbitTracker_1.0\HabbitTracker\obj\Debug\netcoreapp2.1\HabbitTracker.AssemblyInfoInputs.cache
+D:\Skolo\C#\Basic\HabbitTracker1.0\HabbitTracker_1.0\HabbitTracker\obj\Debug\netcoreapp2.1\HabbitTracker.AssemblyInfo.cs
+D:\Skolo\C#\Basic\HabbitTracker1.0\HabbitTracker_1.0\HabbitTracker\obj\Debug\netcoreapp2.1\HabbitTracker.csproj.CopyComplete
+D:\Skolo\C#\Basic\HabbitTracker1.0\HabbitTracker_1.0\HabbitTracker\obj\Debug\netcoreapp2.1\HabbitTracker.dll
+D:\Skolo\C#\Basic\HabbitTracker1.0\HabbitTracker_1.0\HabbitTracker\obj\Debug\netcoreapp2.1\HabbitTracker.pdb

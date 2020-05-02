@@ -1,0 +1,122 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Skolo\\C#\\Basic\\HabbitTracker1.0\\HabbitTracker_1.0\\HabbitTracker\\HabbitTracker.csproj": {}
+  },
+  "projects": {
+    "D:\\Skolo\\C#\\Basic\\HabbitTracker1.0\\HabbitTracker_1.0\\Domain\\Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Skolo\\C#\\Basic\\HabbitTracker1.0\\HabbitTracker_1.0\\Domain\\Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "D:\\Skolo\\C#\\Basic\\HabbitTracker1.0\\HabbitTracker_1.0\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\Saso\\.nuget\\packages\\",
+        "outputPath": "D:\\Skolo\\C#\\Basic\\HabbitTracker1.0\\HabbitTracker_1.0\\Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Saso\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Skolo\\C#\\Basic\\HabbitTracker1.0\\HabbitTracker_1.0\\HabbitTracker\\HabbitTracker.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Skolo\\C#\\Basic\\HabbitTracker1.0\\HabbitTracker_1.0\\HabbitTracker\\HabbitTracker.csproj",
+        "projectName": "HabbitTracker",
+        "projectPath": "D:\\Skolo\\C#\\Basic\\HabbitTracker1.0\\HabbitTracker_1.0\\HabbitTracker\\HabbitTracker.csproj",
+        "packagesPath": "C:\\Users\\Saso\\.nuget\\packages\\",
+        "outputPath": "D:\\Skolo\\C#\\Basic\\HabbitTracker1.0\\HabbitTracker_1.0\\HabbitTracker\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Saso\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "D:\\Skolo\\C#\\Basic\\HabbitTracker1.0\\HabbitTracker_1.0\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\Skolo\\C#\\Basic\\HabbitTracker1.0\\HabbitTracker_1.0\\Domain\\Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
